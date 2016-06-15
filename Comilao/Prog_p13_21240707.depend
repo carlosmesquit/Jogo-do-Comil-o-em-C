@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1465773209 source:c:\users\surface\desktop\comilao\nova pasta\prog_p13_21240707\lista.c
+	"lista.h"
+
+1465773214 c:\users\surface\desktop\comilao\nova pasta\prog_p13_21240707\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1465773192 source:c:\users\surface\desktop\comilao\nova pasta\prog_p13_21240707\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+	"tabuleiro.h"
+
+1465773220 c:\users\surface\desktop\comilao\nova pasta\prog_p13_21240707\tabuleiro.h
+	<stdio.h>
+	<stdlib.h>
+
+1465773201 source:c:\users\surface\desktop\comilao\nova pasta\prog_p13_21240707\tabuleiro.c
+	"tabuleiro.h"
+
+1465947517 source:c:\users\mac\desktop\trabalho\prog_p13_21240707\prog_p13_21240707\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+	"tabuleiro.h"
+
+1465946877 c:\users\mac\desktop\trabalho\prog_p13_21240707\prog_p13_21240707\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+
+1465773220 c:\users\mac\desktop\trabalho\prog_p13_21240707\prog_p13_21240707\tabuleiro.h
+	<stdio.h>
+	<stdlib.h>
+
+1465773201 source:c:\users\mac\desktop\trabalho\prog_p13_21240707\prog_p13_21240707\tabuleiro.c
+	"tabuleiro.h"
+
+1465947997 source:c:\users\mac\desktop\trabalho\prog_p13_21240707\prog_p13_21240707\lista.c
+	"lista.h"
+
+1465773201 source:c:\users\hp1\dropbox\programa플o\comilao\tabuleiro.c
+	"tabuleiro.h"
+
+1465773220 c:\users\hp1\dropbox\programa플o\comilao\tabuleiro.h
+	<stdio.h>
+	<stdlib.h>
+
+1465990539 source:c:\users\hp1\dropbox\programa플o\comilao\lista.c
+	"lista.h"
+
+1465946877 c:\users\hp1\dropbox\programa플o\comilao\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+
+1465948185 source:c:\users\hp1\dropbox\programa플o\comilao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"lista.h"
+	"tabuleiro.h"
+
